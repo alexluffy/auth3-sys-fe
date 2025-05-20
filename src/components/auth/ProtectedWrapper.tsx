@@ -30,8 +30,8 @@ export default function ProtectedWrapper({children}: {children: React.ReactNode}
 		return (
 			<div className='flex h-screen items-center justify-center'>
 				<div className='animate-pulse space-y-4'>
-					<div className='h-4 w-[200px] rounded bg-muted'></div>
-					<div className='h-4 w-[160px] rounded bg-muted'></div>
+					<div className='h-4 w-[200px] rounded bg-muted'/>
+					<div className='h-4 w-[160px] rounded bg-muted'/>
 				</div>
 			</div>
 		)

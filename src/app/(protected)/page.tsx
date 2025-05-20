@@ -21,8 +21,8 @@ export default function ProtectedPage() {
 				<Card>
 					<CardContent className='pt-6'>
 						<div className='animate-pulse space-y-4'>
-							<div className='h-4 bg-muted rounded w-3/4'></div>
-							<div className='h-4 bg-muted rounded w-1/2'></div>
+							<div className='h-4 bg-muted rounded w-3/4'/>
+							<div className='h-4 bg-muted rounded w-1/2'/>
 						</div>
 					</CardContent>
 				</Card>
